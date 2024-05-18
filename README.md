@@ -1,6 +1,6 @@
 # 👨‍💻Sobre mim:
 
-### Aluno do curso de Análise e Desenvolvimento de Sistemas no [IFPI](https://github.com/kawasousa/IFPI-ADS)
+### Atualmente cursando Análise e Desenvolvimento de Sistemas no [IFPI](https://github.com/kawasousa/IFPI-ADS)
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
