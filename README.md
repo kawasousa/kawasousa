@@ -1,4 +1,4 @@
-# 👨‍💻Sobre mim:
+# 👨‍💻Sobre mim
 
 ### Atualmente cursando Análise e Desenvolvimento de Sistemas no [IFPI](https://github.com/kawasousa/IFPI-ADS)
 <div>
