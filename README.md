@@ -1,5 +1,5 @@
 # 👨‍💻About me
-### A passionate software developer for innovation and challenges and student of analysis and systems development at [IFPI](https://github.com/kawasousa/IFPI-ADS)
+  #### A passionate software developer for innovation and challenges. Student of analysis and systems development at [IFPI](https://github.com/kawasousa/IFPI-ADS).
 <div>
   
   ### Learning and developing
