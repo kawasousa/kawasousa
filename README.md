@@ -1,25 +1,25 @@
-# 👨‍💻Sobre mim
-
-### Análise e Desenvolvimento de Sistemas no [IFPI](https://github.com/kawasousa/IFPI-ADS)
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  <img align="center" alt="Javascript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Csharp" height="25" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-
-##
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kawasousa&theme=gotham&hide_rank=true&hide=contribs&show_icons=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawasousa&theme=gotham&layout=compact" />
-</div>
-
-##
+# 👨‍💻About me
+### A passionate software developer for innovation and challenges and student of analysis and systems development at [IFPI](https://github.com/kawasousa/IFPI-ADS)
 <div>
   
-  ### 📫 Contatos
+  ### Learning and developing
+  <img alt="Typescript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Godot" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+  
+  ### Tools
+  <img alt="Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Docker" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
+
+<div>
+  
+  ##
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawasousa&label=Profile%20views&color=1bb184&style=flat" alt="kawasousa" /> </p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kawasousa&theme=gotham&hide_rank=true&hide=contribs,issues,stars,prs&show_icons=true" />
 </div>
 <div>
+  
+  ### 📫 Contacts
   <a href = "mailto:kawasousa3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaw%C3%A3-sousa-de-lima-957505242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
