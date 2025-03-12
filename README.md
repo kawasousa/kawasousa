@@ -14,7 +14,6 @@
 <div>
   
   ##
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawasousa&label=Profile%20views&color=1bb184&style=flat" alt="kawasousa" /> </p>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=kawasousa&theme=gotham&hide_rank=true&hide=contribs,issues,stars,prs&show_icons=true" />
 </div>
 <div>
