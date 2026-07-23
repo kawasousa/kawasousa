@@ -24,8 +24,6 @@
     </a>
   </p>
 
-  ---
-
   ### <img src="https://api.iconify.design/lucide:user.svg?color=%23BCD730" width="22" height="22" /> Sobre Mim
 
   <p align="center">
@@ -35,9 +33,7 @@
     <br />
     <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23BCD730" width="16" height="16" /> <strong>Formação:</strong> Graduado em Análise e Desenvolvimento de Sistemas pelo <strong>IFPI</strong>.
   </p>
-
-  ---
-
+  
   ### <img src="https://api.iconify.design/lucide:layers.svg?color=%23BCD730" width="22" height="22" /> Stack Tecnológica & Ferramentas
 
   #### <img src="https://api.iconify.design/lucide:server.svg?color=%23BCD730" width="18" height="18" /> Backend & API
